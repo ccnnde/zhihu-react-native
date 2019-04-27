@@ -1,0 +1,3 @@
+rootProject.name = 'ZhihuReactNative'
+
+include ':app'
